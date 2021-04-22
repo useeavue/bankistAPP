@@ -16,4 +16,4 @@ Jessica {
    
 You can transfer money through accounts, request a bank loan (10% of highest deposit) and close current account.
 
-It's completely working, however I want to add a currency rates API so you can monitor current rates and doing transfers based on that. 
+It's completely working, however I want to add a currency rates API so you can monitor current rates and do transfers based on that. 
